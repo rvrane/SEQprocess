@@ -61,5 +61,5 @@ Spliced Transcripts Alignment to a Reference (STAR), which was designed to speci
 STAR: ultrafast universal RNA-seq aligner
 }
 \seealso{
-\url {https://github.com/alexdobin/STAR}
+\url{https://github.com/alexdobin/STAR}
 }
